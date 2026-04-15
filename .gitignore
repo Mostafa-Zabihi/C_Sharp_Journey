@@ -1,0 +1,14 @@
+# .NET Build-Artefakte (Diese Ordner NICHT hochladen)
+bin/
+obj/
+
+# Visual Studio / VS Code spezifische Dateien
+.vscode/
+*.user
+*.suo
+*.db
+*.pfx
+
+# Betriebssystem-Dateien
+thumbs.db
+.DS_Store
